@@ -1,25 +1,22 @@
 This is a full stack application that uses angular as front and express as back.
 
-## Infrastructure
-![main](../screens/main.png)
+# Infrastructure
+
+## Pipeline
+
+### CircleCI
+
+CircleCI was used for pipeline, here is the [config](https://github.com/MinaSameh1/deployment-process-project-starter/blob/master/.circleci/config.yml)  
+![pipeline](../screens/PIPELINE.png)
+
+## AWS
+
+![aws](../screens/AWS.png)
 
 ### DB
 
 It is using AWS RDS postgres DB.  
 The db is hosted currently using the free tier.
-
-### CircleCI
-
-Used for pipeline, here is the [config](https://github.com/MinaSameh1/deployment-process-project-starter/blob/master/.circleci/config.yml)
-
-#### Steps:
-
-1. Installs front and backend deps.
-1. Lints the frontend.
-1. Builds the front and backend.
-1. Waits for approval
-1. If approved installs aws, eb and sets env vars.
-1. Deploys both apps.
 
 ### ElasticBeanstalk
 
