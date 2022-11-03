@@ -7,16 +7,25 @@ Required for udaicty full stack nanodegree.
 ## Screens
 
 #### DB working
+
 ![dbWorking](screens/dbWorking.png)
 
 #### CircleCI
+
 ![CircleCI](screens/circleCI.png)
 
+#### CircleCI ENV vars
+
+![circleEnv](screens/CircleEnv.png)
+
 #### elasticbean working
+
 ![elastic bean](screens/elasticbean.png)
 
 #### Frontend working
+
 ![front](screens/frontWorking.png)
 
 #### API working
+
 ![apiworking](screens/apiWorking.png)
