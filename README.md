@@ -2,7 +2,8 @@
 
 Required for udaicty full stack nanodegree.
 
-[Front link](https://elasticbeanstalk-us-east-1-506366420061.s3.amazonaws.com/index.html): https://elasticbeanstalk-us-east-1-506366420061.s3.amazonaws.com/index.html
+[Front link](http://elasticbeanstalk-us-east-1-506366420061.s3.amazonaws.com/home): http://elasticbeanstalk-us-east-1-506366420061.s3.amazonaws.com/home
+
 
 ## Screens
 
