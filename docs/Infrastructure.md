@@ -1,6 +1,7 @@
 This is a full stack application that uses angular as front and express as back.
 
 ## Infrastructure
+![main](../screens/main.png)
 
 ### DB
 
