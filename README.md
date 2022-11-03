@@ -2,7 +2,7 @@
 
 Required for udaicty full stack nanodegree.
 
-[Front link](http://elasticbeanstalk-us-east-1-506366420061.s3.amazonaws.com/home): http://elasticbeanstalk-us-east-1-506366420061.s3.amazonaws.com/home
+Front Link: https://elasticbeanstalk-us-east-1-506366420061.s3.amazonaws.com/index.html
 
 Includes docs on [dependinces](https://github.com/MinaSameh1/deployment-process-project-starter/blob/master/docs/dependencies.md) used and [Infstructure](https://github.com/MinaSameh1/deployment-process-project-starter/blob/master/docs/Infrastructure.md) 
 
