@@ -7,7 +7,7 @@ Front Link: http://elasticbeanstalk-us-east-1-506366420061.s3.amazonaws.com/inde
 Includes docs on [dependinces](https://github.com/MinaSameh1/deployment-process-project-starter/blob/master/docs/dependencies.md) used and [Infstructure](https://github.com/MinaSameh1/deployment-process-project-starter/blob/master/docs/Infrastructure.md) 
 
 
-## Screens
+## Screenshots and diagram
 
 #### Infrastructure
 ![main](screens/main.png)
