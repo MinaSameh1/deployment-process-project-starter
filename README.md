@@ -4,8 +4,13 @@ Required for udaicty full stack nanodegree.
 
 [Front link](http://elasticbeanstalk-us-east-1-506366420061.s3.amazonaws.com/home): http://elasticbeanstalk-us-east-1-506366420061.s3.amazonaws.com/home
 
+Includes docs on [dependinces](https://github.com/MinaSameh1/deployment-process-project-starter/blob/master/docs/dependencies.md) used and [Infstructure](https://github.com/MinaSameh1/deployment-process-project-starter/blob/master/docs/Infrastructure.md) 
+
 
 ## Screens
+
+#### Infrastructure
+![main](screens/main.png)
 
 #### DB working
 
